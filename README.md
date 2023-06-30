@@ -1,5 +1,5 @@
 <body>
-    <h1>💻 OptimizerScript by Matthew 💻</h1>
+    <h1>💻 OptimizerScript 💻</h1>
     <h2>❓ What is this script?</h2>
     <p>It's a short code written in Powershell to optimise your computer. It removes junk, defragments and optimises the disk, removes credentials etc.</p>
     <h2>🤔 How does it work?</h2>
